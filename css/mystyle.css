@@ -1,0 +1,7 @@
+
+.layer {
+	position:relative;
+	background-color: rgb(227,159,88); /* Fallback for older browsers without RGBA-support */
+    background-color: rgba(227,159,88,0.4);
+	width:100%;
+}
